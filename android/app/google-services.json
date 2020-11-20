@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "180827271788",
+    "firebase_url": "https://wheelersandfixers-fd733.firebaseio.com",
+    "project_id": "wheelersandfixers-fd733",
+    "storage_bucket": "wheelersandfixers-fd733.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180827271788:android:cac7f6840830bd35441e49",
+        "android_client_info": {
+          "package_name": "com.example.fixersdata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180827271788-vs9ep7a7rpcqj2b1tn9751k2v7usa13r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fixersdata",
+            "certificate_hash": "b452bc1833126c4ff2b9518d3ebe0d9b9620091f"
+          }
+        },
+        {
+          "client_id": "180827271788-lq2ilkvt487smlc2eqrk3mbios5joqa4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx5in4xzXoje-V-Q5g3GrwWadOvvpo0FM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180827271788-lq2ilkvt487smlc2eqrk3mbios5joqa4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
